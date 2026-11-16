@@ -139,16 +139,17 @@ This hands-on lab provided practical experience in managing Amazon EC2 instances
 **Status: Successfully Completed**
 
 
+
 ## Lab Screenshots
 
 ### 1. Monitor EC2 Instance
-![Monitor Instance](screenshots/Monitor%20Instance.png)
+![Monitor Instance](Monitor%20Instance.png)
 
 ### 2. Web Server Output
-![Web Page](screenshots/Web%20page.png)
+![Web Page](Web%20page.png)
 
 ### 3. Lab Architecture
-![Lab Scenario](screenshots/lab-scenario.png)
+![Lab Scenario](lab-scenario.jpeg)
 
 ### 4. Lab Results
-![Lab Results](screenshots/Result.png)
+![Lab Results](Result.png)
