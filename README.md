@@ -137,3 +137,18 @@ Successfully completed the EC2 lab and achieved the following:
 This hands-on lab provided practical experience in managing Amazon EC2 instances, configuring network security, deploying a web server, and scaling cloud resources.
 
 **Status: Successfully Completed**
+
+## Lab Screenshots
+
+### 1. Monitor EC2 Instance
+![Monitor Instance](screenshots/Monitor%20Instance.png)
+
+### 2. Web Server Output
+![Web Page](screenshots/Web%20page.png)
+
+### 3. Lab Architecture
+![Lab Scenario](screenshots/lab-scenario.png)
+
+
+### 4. Lab Results
+![Lab Results](screenshots/Result.png)
